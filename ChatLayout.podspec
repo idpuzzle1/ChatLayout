@@ -15,7 +15,7 @@ supplementary view sizes.
   s.author           = { 'Eugene Kazaev' => 'eugene.kazaev@gmail.com' }
   s.source           = { :git => 'https://github.com/ekazaev/ChatLayout.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '11.0'
 
   s.default_subspec = "Ultimate"
 
